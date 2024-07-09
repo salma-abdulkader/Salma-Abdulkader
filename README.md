@@ -4,10 +4,12 @@ Hi 👋, I'm Salma Abdulkader!
 
 I'm a Computer Science Undergraduate From Faculty Of Computers And Artificial Intelligence, Benha
 
-* 🌍  I'm based in Egypt
-* ✉️  You can contact me at [salma.ahmed.k1678@gmail.com](mailto:salma.ahmed.k1678@gmail.com)
 * 🤝  I'm open to collaborating on Open Source Projects
+* 🌍  I'm based in Egypt
+* 🌱 I’m currently learning Machine And Deep Learning
 * ⚡  For Fun I Love Coding :)
+* ✉️  You can contact me at [salma.ahmed.k1678@gmail.com](mailto:salma.ahmed.k1678@gmail.com)
+
 
 <a href="https://www.github.com/salmaahmed2828" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/salmaahmed2828?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
