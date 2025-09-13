@@ -2,7 +2,7 @@
 Hi 👋, I'm Salma Abdulkader!
 ========================================================================================================================================
 
-I graduated from Faculty Of Computers And Artificial Intelligence, Benha University
+I Graduated From Faculty Of Computers And Artificial Intelligence, Benha University
 
 * 🤝  I'm open to collaborating on Open Source Projects
 * 🌍  I'm based in Egypt
