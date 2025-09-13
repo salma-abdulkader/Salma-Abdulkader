@@ -2,13 +2,13 @@
 Hi 👋, I'm Salma Abdulkader!
 ========================================================================================================================================
 
-I'm a Computer Science Undergraduate From Faculty Of Computers And Artificial Intelligence, Benha
+I graduated from Faculty Of Computers And Artificial Intelligence, Benha University
 
 * 🤝  I'm open to collaborating on Open Source Projects
 * 🌍  I'm based in Egypt
 * 🌱 I’m currently learning Machine And Deep Learning
 * ⚡  For Fun I Love Coding :)
-* ✉️  You can contact me at [salma.ahmed.k1678@gmail.com](mailto:salma.ahmed.k1678@gmail.com)
+* ✉️  You can contact me at [salma.ahmd.k1678@gmail.com](mailto:salma.ahmd.k1678@gmail.com)
 
 
 <a href="https://www.github.com/salmaahmed2828" target="_blank" rel="noreferrer"><img
